@@ -1,16 +1,118 @@
-# course_app
+<p align="center">
+  <img src="https://github.com/itssudhanshu/CourseApp/blob/master/assets/images/book.png" width="150">
+</p>
+<p align="center">(Android/iOS)</p>
+<h1 align="center">Course App</h1>
 
-A new Flutter project.
+# My Tech stack and tools
 
-## Getting Started
+In this repository you can find a list of tools, programming language and frameworks that I would use to build any kind of project.
 
-This project is a starting point for a Flutter application.
+Some of the tools listed I'm gaining experience like Flutter, Firebase etc through reading blogs and tutorials that made me think it would be a great choice for some type of project like this App.
 
-A few resources to get you started if this is your first Flutter project:
+- [My Tech stack and tools](#my-tech-stack-and-tools)
+  - [Methodologies and core values](#methodologies-and-core-values)
+  - [Application Development](#application-development)
+  - [Development Tools](#development-tools)
+    - [Tools](#tools-used)
+    - [Documentation](#documentation)
+    - [Testing](#testing)
+  - [Design](#design)
+  - [Marketing and Analytics](#marketing-and-analytics)
+  
+---
+  
+## Methodologies and core values
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* [Modern Agile](http://modernagile.org/)
+* Devops
+* Continuous Delivery
+* "Operate what you build" - [see](https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Application Development
+
+* **Programming Language** - Dart, Java, Kotlin
+* **Development Tool** - Flutter
+
+---
+
+## Development Tools
+
+### Tools Used
+
+* [Flutter](https://flutter.dev/) 
+  - Flutter is a framework for **Cross-Platform Development** on which we can make applications for both iOS and Android.
+  - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+* [Firebase](https://firebase.google.com/) - A comprehensive app development platform support system in [Google Cloud Platform](https://cloud.google.com/).
+  - [Firebase - Authentication](https://firebase.google.com/products/auth) - Authenticate users simply and securely.
+  - [Firebase - Crashlytics](https://firebase.google.com/products/crashlytics) - Prioritize and fix issues with powerful, realtime crash reporting.
+  - [Firebase - Performance Monitoring](https://firebase.google.com/products/performance) - Gain insight into your app's performance.
+  - [Firebase - Remote Config](https://firebase.google.com/products/remote-config) - Modify your app without deploying a new version.
+  - [Firebase - Predictions](https://firebase.google.com/products/predictions) - Smart user segmentation based on predicted behavior.
+  - [Firebase - App Distribution](https://firebase.google.com/products/app-distribution) - Distribute pre-release versions of your app to your trusted testers.
+
+### Documentation
+
+* [Flutter - Docs](https://flutter.dev/docs) 
+* [Firebase - Docs](https://firebase.google.com/docs)
+
+### Testing 
+
+* [Flutter Testing](https://flutter.dev/docs/testing) - Automated tests help ensure that your app performs correctly before you publish it, while retaining your feature and bug fix velocity.
+* [Firebase - TestLab](https://firebase.google.com/products/test-lab) - Test your app on devices hosted in a Google data center.
+
+---
+
+## Design
+
+* [Flutter - Cookbook](https://flutter.dev/docs/cookbook) 
+* [Google Fonts](https://fonts.google.com/) - Google Fonts is a library of 991 free licensed font families.
+* [Iconfinder](https://www.iconfinder.com/) - 2,775,000+ free and premium vector icons. SVG, PNG, AI, CSH and PNG format.
+
+---
+
+## Marketing and Analytics
+
+* [Google Analytics](https://analytics.google.com/analytics/web/#/)
+* [Google AdMob](https://admob.google.com/home/)
+* [Google AdSense](https://www.google.com/intl/en_in/adsense/start/#/?modal_active=none)
+
+---
+
+
+## Deployment
+
+ <a href=https://github.com/itssudhanshu/CourseApp">
+    <img src="https://img.shields.io/badge/Download Course-App-blue.svg?style=for-the-badge">
+  </a>  
+
+<h3>Building</h3>
+
+Android Release: `flutter build apk` 
+
+Android (arm64-v8a)/(armeabi-v7a): `flutter build apk --split-per-abi`  
+
+If you have a connected device or emulator you can run and deploy the app with `flutter run` 
+
+---
+    
+## Contributors
+
+| 👤 **Sudhanshu Kushwaha**                                   | 👤 **Nirbhay Singh Naruka**                                              |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------- |
+|Github: [@itssudhanshu](https://github.com/itssudhanshu)  | Github: [@nirbhaynaruka](https://github.com/nirbhaynaruka)   |
+|LinkedIn: [@sudhanshu0299](https://linkedin.com/in/sudhanshu0299)  | LinkedIn: [@nirbhay13](https://www.linkedin.com/in/nirbhay13/)|
+
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
