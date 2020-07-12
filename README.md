@@ -2,9 +2,9 @@
   <img src="https://github.com/itssudhanshu/CourseApp/blob/master/assets/images/book.png" width="150">
 </p>
 <p align="center">(Android/iOS)</p>
-<h1 style="center">Course App</h1>
-<p style="center">A Video Streaming Platform for the Students to study their respective courses or subjects so, that learning is going on is this Pandemic. </p>
-*(**NOTE:** This app is under development but the UI part is almost complete. This project is simply for self learning.)*
+<h1 align="center">Course App</h1>
+<p align="center">A Video Streaming Platform for the Students to study their respective courses or subjects so, that learning is going on is this Pandemic. </p>
+*(NOTE: This app is under development but the UI part is almost complete. This project is simply for self learning.)
 
 
 # My Tech stack and tools
@@ -80,7 +80,7 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 ## Deployment
 
  <a href=https://github.com/itssudhanshu/CourseApp">
-    <img src="https://img.shields.io/badge/Download/Course-App-blue.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download/ Course-App-blue.svg?style=for-the-badge">
   </a>  
 
 <h3>Building</h3>
