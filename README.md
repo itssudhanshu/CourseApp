@@ -47,11 +47,8 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
   - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 * [Firebase](https://firebase.google.com/) - A comprehensive app development platform support system in [Google Cloud Platform](https://cloud.google.com/).
   - [Firebase - Authentication](https://firebase.google.com/products/auth) - Authenticate users simply and securely.
-  - [Firebase - Crashlytics](https://firebase.google.com/products/crashlytics) - Prioritize and fix issues with powerful, realtime crash reporting.
   - [Firebase - Performance Monitoring](https://firebase.google.com/products/performance) - Gain insight into your app's performance.
   - [Firebase - Remote Config](https://firebase.google.com/products/remote-config) - Modify your app without deploying a new version.
-  - [Firebase - Predictions](https://firebase.google.com/products/predictions) - Smart user segmentation based on predicted behavior.
-  - [Firebase - App Distribution](https://firebase.google.com/products/app-distribution) - Distribute pre-release versions of your app to your trusted testers.
 
 ### Documentation
 
@@ -76,16 +73,11 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 ## Marketing and Analytics
 
 * [Google Analytics](https://analytics.google.com/analytics/web/#/)
-* [Google AdMob](https://admob.google.com/home/)
-* [Google AdSense](https://www.google.com/intl/en_in/adsense/start/#/?modal_active=none)
-
----
-
 
 ## Deployment
 
  <a href=https://github.com/itssudhanshu/CourseApp">
-    <img src="https://img.shields.io/badge/Download Course-App-blue.svg?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Download/Course-App-blue.svg?style=for-the-badge">
   </a>  
 
 <h3>Building</h3>
