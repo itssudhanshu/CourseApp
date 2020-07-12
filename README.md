@@ -2,7 +2,10 @@
   <img src="https://github.com/itssudhanshu/CourseApp/blob/master/assets/images/book.png" width="150">
 </p>
 <p align="center">(Android/iOS)</p>
-<h1 align="center">Course App</h1>
+<h1 style="center">Course App</h1>
+<p style="center">A Video Streaming Platform for the Students to study their respective courses or subjects so, that learning is going on is this Pandemic. </p>
+*(**NOTE:** This app is under development but the UI part is almost complete. This project is simply for self learning.)*
+
 
 # My Tech stack and tools
 
