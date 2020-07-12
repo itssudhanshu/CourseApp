@@ -79,9 +79,7 @@ Some of the tools listed I'm gaining experience like Flutter, Firebase etc throu
 
 ## Deployment
 
- <a href=https://github.com/itssudhanshu/CourseApp">
-    <img src="https://img.shields.io/badge/Download/ Course-App-blue.svg?style=for-the-badge">
-  </a>  
+<p><a href=https://github.com/itssudhanshu/CourseApp"><img src="https://img.shields.io/badge/Download-CourseApp-blue.svg?style=for-the-badge"></a></p>
 
 <h3>Building</h3>
 
