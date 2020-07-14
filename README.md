@@ -4,8 +4,13 @@
 <p align="center">(Android/iOS)</p>
 <h1 align="center">Course App</h1>
 <p align="center">A Video Streaming Platform for the Students to study their respective courses or subjects so, that learning is going on is this Pandemic. </p>
-*(NOTE: This app is under development but the UI part is almost complete. This project is simply for self learning.)
+*(NOTE: This app is under development but the UI part is almost complete. This project is simply for self learning.)  
 
+---
+
+## Screenshots
+
+<img src="screenshots/tia210909640.png" height="300" width="200" hspace="10"><img src="screenshots/tia249888699.png" height="300" width="200" hspace="10"><img src="screenshots/tia1135789958.png" height="300" width="200" hspace="10">
 
 # My Tech stack and tools
 
@@ -93,19 +98,14 @@ If you have a connected device or emulator you can run and deploy the app with `
     
 ## Contributors
 
-| 👤 **Sudhanshu Kushwaha**                                   | 👤 **Nirbhay Singh Naruka**                                              |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------- |
-|Github: [@itssudhanshu](https://github.com/itssudhanshu)  | Github: [@nirbhaynaruka](https://github.com/nirbhaynaruka)   |
-|LinkedIn: [@sudhanshu0299](https://linkedin.com/in/sudhanshu0299)  | LinkedIn: [@nirbhay13](https://www.linkedin.com/in/nirbhay13/)|
+| 👤 **Sudhanshu Kushwaha**                                   | 👤 **Nirbhay Singh Naruka**                                              |  👤 **Amardeep Singh**   |  
+| ----------------------------------------------------------- | ---------------------------------------------------------------------- |-----------------------------|
+|Github: [@itssudhanshu](https://github.com/itssudhanshu)  | Github: [@nirbhaynaruka](https://github.com/nirbhaynaruka)   | Github: [@singhamardeep0](https://github.com/singhamardeep0) |
+|LinkedIn: [@sudhanshu0299](https://linkedin.com/in/sudhanshu0299)  | LinkedIn: [@nirbhay13](https://www.linkedin.com/in/nirbhay13/)|  LinkedIn: [@singh-amardeep](https://www.linkedin.com/in/singh-amardeep/) |
 
 
 ### :heart: Found this project useful?
 
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
